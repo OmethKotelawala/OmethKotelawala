@@ -69,16 +69,6 @@ I'm a young developer and creative designer passionate about creating **modern w
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=OmethKotelawal&theme=radical&no-frame=true&no-bg=true&margin-w=6"/>
-
-</div>
-
----
-
 ## 🚀 My Goal
 
 > **Learn. Build. Create. Improve. Repeat.**
