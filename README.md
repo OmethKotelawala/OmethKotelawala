@@ -53,22 +53,6 @@ I'm a young developer and creative designer passionate about creating **modern w
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=OmethKotelawal&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=OmethKotelawal&theme=dark&hide_border=true" height="165"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmethKotelawal&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165"/>
-
-</div>
-
----
-
 ## 🚀 My Goal
 
 > **Learn. Build. Create. Improve. Repeat.**
